@@ -3,11 +3,11 @@
 - Auto up lv
 - Auto tap
 - Support multi account
-- Register PockeyQuest [here](https://t.me/pokequest_bot/app?startapp=lgMcyMN13a)
+- Register PockeyQuest [here](https://t.me/pokequest_bot/app?startapp=yvM4U7Npzm)
 
 ## Installation
 ```
-git clone https://github.com/Galkurta/PokeyQuest-BOT.git
+git clone https://github.com/himiko3939/Poke
 ```
 ```
 cd PokeyQuest-BOT
